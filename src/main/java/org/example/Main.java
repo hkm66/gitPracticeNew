@@ -6,8 +6,11 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("hello meryem");
         //work1
+<<<<<<< HEAD
         //work2
         //work3
+=======
+>>>>>>> parent of b2dbc7f (work2)
 
 
     }
